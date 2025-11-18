@@ -29,6 +29,7 @@ npm install
 ```sh
 cp .env.example .env
 ```
+- Note : While adding the backend make sure you dont have a trailing slash at the end of the URL.
 
 ### 5. Start the local dev server 
 
